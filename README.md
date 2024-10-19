@@ -3,19 +3,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fearlesscoder&label=Profile%20views&color=0e75b6&style=flat" alt="fearlesscoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fearlesscoder" alt="fearlesscoder" /></a> </p>
-
 - 🔭 I’m currently working on **PORTFOLIO WEBSITE**
 
 - 🌱 I’m currently learning **WEB DEV and DSA.**
 
 - 📫 How to reach me **itsvkd1@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S-6JHjCcrM1gNJ8Q8s9EvH3VRR-A98wQ/view?usp=drive_link](https://drive.google.com/file/d/1S-6JHjCcrM1gNJ8Q8s9EvH3VRR-A98wQ/view?usp=drive_link)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vivek-kumar-889936267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-kumar-889936267" height="30" width="40" /></a>
 <a href="https://instagram.com/the_brand_vkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_brand_vkd" height="30" width="40" /></a>
+<a href="https://medium.com/@itsvkd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itsvkd1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/linux labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linux labs" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thefunnelvkd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thefunnelvkd" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/the_funnel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_funnel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thefunnelcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thefunnelcode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsvkko8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsvkko8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
